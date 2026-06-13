@@ -24,3 +24,18 @@ pip install -r requirements.txt
 ## Run
 
 python main.py
+
+
+## IMPORTANT ##
+
+If you have problem runing the game, just hit this comands in bash and it will run in virtual enviroment. 
+
+python3.11 -m venv test311
+source test311/bin/activate
+
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+python main.py
+
+Happy playing!
