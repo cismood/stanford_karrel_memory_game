@@ -7,7 +7,7 @@ from assets import load_player_images
 # INIT
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Memory Game")
+pygame.display.set_caption("Croatian footbalers Memory Game")
 
 font = pygame.font.SysFont(None, FONT_SIZE)
 
